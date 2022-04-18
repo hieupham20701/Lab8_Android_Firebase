@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659440715063",
+    "project_id": "lab8-phamquochieu",
+    "storage_bucket": "lab8-phamquochieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659440715063:android:4a9818e3f52190534106b2",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659440715063-9qcn56g5gbj761di0u4eo4l0u1ef3ppr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkOJj71SY1iIa4sN6DtPpr6oZsQYgAPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659440715063-9qcn56g5gbj761di0u4eo4l0u1ef3ppr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
